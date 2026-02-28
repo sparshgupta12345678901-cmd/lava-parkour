@@ -19,7 +19,6 @@
   },
   "name":"lava parkour",
   "resources":[
-    {"id":{"name":"test","path":"fonts/test/test.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
