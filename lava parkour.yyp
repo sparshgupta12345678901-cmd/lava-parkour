@@ -20,7 +20,6 @@
   "name":"lava parkour",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
-    {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
