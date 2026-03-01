@@ -9,8 +9,8 @@
   "name":"oPlayer",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sprite",
+    "path":"folders/Sprite.yy",
   },
   "parentObjectId":null,
   "persistent":false,
